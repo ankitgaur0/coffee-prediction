@@ -1,0 +1,1 @@
+## Coffee sales in a vending machine

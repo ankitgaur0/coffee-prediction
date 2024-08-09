@@ -5,7 +5,7 @@ HYPEN_E_DOT='-e .'
 def get_requirements(file_path:str) ->List[str] :
     '''
          this function iterate the packages from the Requirements.txxt file
-         and return in the setup function to execute .
+         and return to the setup function to execute in list format .
     '''
     Requirements=[]
     with open(file_path) as file_obj:
